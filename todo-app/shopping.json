@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1772359944615,
+    "name": "Milk",
+    "qty": 1,
+    "unit": "",
+    "aisle": "\ud83e\udd66 Produce",
+    "checked": false,
+    "recurring": false,
+    "author": "us",
+    "created": "2026-03-01T10:12:24Z"
+  },
+  {
+    "id": 1772359955904,
+    "name": "Yogurt drinks",
+    "qty": 1,
+    "unit": "",
+    "aisle": "\ud83e\udd66 Produce",
+    "checked": false,
+    "recurring": false,
+    "author": "us",
+    "created": "2026-03-01T10:12:35Z"
+  },
+  {
+    "id": 1772359964715,
+    "name": "Asparagus",
+    "qty": 1,
+    "unit": "",
+    "aisle": "\ud83e\udd66 Produce",
+    "checked": false,
+    "recurring": true,
+    "author": "us",
+    "created": "2026-03-01T10:12:44Z"
+  },
+  {
+    "id": 1772359984591,
+    "name": "Chicken",
+    "qty": 3,
+    "unit": "",
+    "aisle": "\ud83e\udd69 Meat",
+    "checked": false,
+    "recurring": false,
+    "author": "us",
+    "created": "2026-03-01T10:13:04Z"
+  },
+  {
+    "id": 1772359993975,
+    "name": "Waygu Patties",
+    "qty": 1,
+    "unit": "",
+    "aisle": "\ud83e\udd69 Meat",
+    "checked": false,
+    "recurring": false,
+    "author": "us",
+    "created": "2026-03-01T10:13:13Z"
+  }
+]
